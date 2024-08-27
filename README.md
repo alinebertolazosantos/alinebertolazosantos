@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de engenharia da computação no Instituto Federal <br>de São Paulo do campus de Birigui.<br>Cursando atualmente o 7° semestre - previsão de conclusão 2024.<br>Estudando desenvolvimento web e mobile.<br>
+Estudante de engenharia da computação no Instituto Federal <br>de São Paulo do campus de Birigui.<br>Cursando atualmente o 9° semestre - previsão de conclusão 2025.<br>Estudando desenvolvimento web e mobile.<br>
 
 
 ## 🌐 Socials:

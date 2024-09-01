@@ -1,4 +1,4 @@
-#Sobre Mim
+<h1>Sobre Mim </h1>
 
 👋 Olá! Eu sou Aline Bertolazo, estudante do 9° semestre de Engenharia da Computação no IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui. Minha formatura está prevista para 2026.
 

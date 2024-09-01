@@ -1,4 +1,5 @@
 #Sobre Mim
+
 👋 Olá! Eu sou Aline Bertolazo, estudante do 9° semestre de Engenharia da Computação no IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui. Minha formatura está prevista para 2026.
 
 🎓 Durante minha graduação, tive a oportunidade de explorar diversas áreas da computação, incluindo redes, programação, e desenvolvimento de sistemas. Essas experiências têm sido fundamentais para moldar meu conhecimento e paixão pela tecnologia.

@@ -1,5 +1,11 @@
-# 💫 About Me:
-Estudante de engenharia da computação no Instituto Federal <br>de São Paulo do campus de Birigui.<br>Cursando atualmente o 9° semestre - previsão de conclusão 2025.<br>Estudando desenvolvimento web e mobile.<br>
+#Sobre Mim
+👋 Olá! Eu sou Aline Bertolazo, estudante do 9° semestre de Engenharia da Computação no IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui. Minha formatura está prevista para 2026.
+
+🎓 Durante minha graduação, tive a oportunidade de explorar diversas áreas da computação, incluindo redes, programação, e desenvolvimento de sistemas. Essas experiências têm sido fundamentais para moldar meu conhecimento e paixão pela tecnologia.
+
+💻 Atualmente, estou focada em aprimorar minhas habilidades em Python e JavaScript. Essas linguagens têm sido o centro dos meus projetos recentes, onde estou aplicando o que aprendi tanto na universidade quanto em estudos autodidatas.
+
+🔍 Estou sempre em busca de novas oportunidades para aprender e crescer na área de tecnologia. No meu GitHub, você encontrará projetos que refletem meu desenvolvimento acadêmico e profissional, e estou animada para compartilhar meu progresso com você.
 
 
 ## 🌐 Socials:
